@@ -1,0 +1,20 @@
+#countdown{
+    font-weight: 800;
+    font-size: 30px;
+    text-align: center;
+    margin:50px auto;
+    border: 5px solid black;
+    border-radius: 40px;
+    max-width: 220px;
+    padding: 20px;
+}
+#message{
+    font-weight: 1000;
+    font-size: 50px;
+    text-align: center;
+    margin:50px auto;
+    border: 5px solid black;
+    border-radius: 40px;
+    max-width: 420px;
+    padding: 10px; 
+}
